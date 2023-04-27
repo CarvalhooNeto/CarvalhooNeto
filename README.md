@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarvalhooNeto
 - 👀 I’m interested in data analyses, data science & data engineering
-- 🌱 I’m currently learning data analysis/ data science
+- 🌱 I’m currently learning data analysis/science
 - 📫 How to reach me @aderaldo.carvalho@dcx.ufpb.br
 
 <!---
