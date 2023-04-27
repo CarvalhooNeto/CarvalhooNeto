@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CarvalhooNeto
-- 👀 I’m interested in javascript, web development, datamining
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on @a4s-ufpb
+- 👀 I’m interested in data analyses, data science & data engineering
+- 🌱 I’m currently learning data analysis/ data science
 - 📫 How to reach me @aderaldo.carvalho@dcx.ufpb.br
 
 <!---
